@@ -1,0 +1,5 @@
+model_key,model_name,model_type
+1,Naive,Baseline
+2,SARIMA,Statistical
+3,Holt-Winters,Statistical
+4,XGBoost,ML
