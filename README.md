@@ -117,5 +117,3 @@ DAX
 Excel
 
 This project helped me understand how forecasting, inventory planning and business analytics are connected, and also showed me why a forecasting model should be evaluated using business and operational outcomes rather than accuracy metrics alone.
-
-Kaushik Gupta
